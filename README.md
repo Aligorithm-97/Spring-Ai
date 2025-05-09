@@ -1,2 +1,2 @@
-## Spring AI Integration
-TBD
+## Spring AI
+This repository showcases a simple implementation of Spring AI features using Spring Boot. It demonstrates how to integrate Large Language Models (LLMs) like OpenAI into a Spring application, using prompt templates, structured outputs, and minimal configuration. The project serves as a starting point for experimenting with AI capabilities in a familiar Spring ecosystem.
